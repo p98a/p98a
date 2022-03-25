@@ -5,7 +5,7 @@
 - 📫 How to reach me 
 Send me an email at p98@umbc.edu
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=p98a.404883377)
+### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=p98a.p98a)
 
 <!---
 p98a/p98a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
